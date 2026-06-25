@@ -62,7 +62,7 @@ This project was created to practice:
 
 ## Author
 
-[Your Name]
+Prateek kumar gupta
 
 ## License
 
